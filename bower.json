@@ -1,0 +1,24 @@
+{
+  "name": "myApp",
+  "authors": [
+    "Cade Nichols <cade@cadenichols.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.8",
+    "jquery": "~2.1.4",
+    "angular-ui-router": "ui-router#~0.2.15",
+    "ngCordova": "~0.1.23-alpha"
+  }
+}
